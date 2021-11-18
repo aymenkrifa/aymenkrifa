@@ -9,8 +9,11 @@ You can contact me at: contact@aymenkrifa.me or aymenkrifa@gmail.com
 
 ## Links
 www.aymenkrifa.me
+
 www.linkedin.com/in/aymenkrifa
+
 www.twitter.com/krifaymen
+
 www.github.com/aymenkrifa
 
 [![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aymenkrifa.me/)
