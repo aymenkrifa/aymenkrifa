@@ -8,7 +8,7 @@ I am looking for a Licence PFE internship in Data Science / Machine Learning
 You can contact me at: contact@aymenkrifa.me or aymenkrifa@gmail.com
 
 ## Links
-www.aymenkrifa.me | www.linkedin.com/in/aymenkrifa | www.twitter.com/krifaymen | www.github.com/aymenkrifa
+<a href="https://aymenkrifa.me/">Website</a> | www.linkedin.com/in/aymenkrifa | www.twitter.com/krifaymen | www.github.com/aymenkrifa
 
 [![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aymenkrifa.me/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymenkrifa/)
