@@ -1,5 +1,5 @@
 
-# Hello!
+# Hello! 🤖
 
 I'm Mohamed Aymen Krifa, a senior year Software Engineering/Computer Science undergraduate student.
 
