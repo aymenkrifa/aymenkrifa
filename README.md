@@ -1,7 +1,7 @@
 
 # Hello! 🤖
 
-I'm Mohamed Aymen Krifa, a senior year Software Engineering/Computer Science undergraduate student.
+I'm Mohamed Aymen Krifa, a senior year Software Engineering/Computer Science undergraduate student from Tunisia 🇹🇳.
 
 I am looking for a Licence PFE internship in Data Science / Machine Learning
 
