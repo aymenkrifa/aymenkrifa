@@ -1,7 +1,7 @@
 
 # Hello! 👋
 
-I'm Mohamed Aymen Krifa, a senior year Computer Science undergraduate student from Tunisia 🇹🇳.
+I'm Aymen Krifa, a senior year Computer Science undergraduate student from Tunisia 🇹🇳.
 
 You can contact me at: contact@aymenkrifa.me or aymenkrifa@gmail.com
 
