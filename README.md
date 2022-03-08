@@ -1,7 +1,7 @@
 
 # Hello! 👋
 
-I'm Aymen Krifa, a Data Science Intern at Quicktext (Satoripop) and a senior year Computer Science undergraduate student from Tunisia 🇹🇳.
+I'm Aymen Krifa, a Data Science Intern at Quicktext (Satoripop) and a senior year CS undergraduate student from Tunisia 🇹🇳.
 
 You can contact me at: contact@aymenkrifa.me or aymenkrifa@gmail.com
 
