@@ -14,9 +14,6 @@ My name is Aymen and I'm a Computer Science student from Tunisia. Here's some in
 - Data Science.
 - Science
 
-😄 Pronouns:
-- My full name is Mohamed Aymen KRIFA, but everyone call me Aymen
-
 💬 Reach me by email or LinkedIn! aymenkrifa@gmail.com | linkedin.com/in/aymenkrifa
 
 📫 Visit my website: www.aymenkrifa.me
