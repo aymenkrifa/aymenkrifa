@@ -14,6 +14,6 @@ My name is Aymen and I'm a Computer Science student from Tunisia. Here's some in
 - Data Science.
 - Science
 
-💬 Reach me by email or LinkedIn! aymenkrifa@gmail.com | linkedin.com/in/aymenkrifa
+💬 Reach me by email or LinkedIn! aymenkrifa@gmail.com | www.linkedin.com/in/aymenkrifa
 
 📫 Visit my website: www.aymenkrifa.me
