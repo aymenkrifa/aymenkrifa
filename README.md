@@ -1,8 +1,22 @@
+### Hi there 👋
 
-# Hello! 👋
+My name is Aymen and I'm a Computer Science student from Tunisia. Here's some info about me!
 
-I'm Aymen Krifa, a Data Science Intern at Quicktext (Satoripop) and a senior year CS undergraduate student from Tunisia 🇹🇳.
+⚡ Work experience: <br>
+- Data Scientist intern at Quicktext (technology by Satoripop) [Sousse, Tunisia. February 2022 - Present]
+- Software Engineer intern at Whitecape Technologies [Sousse, Tunisia. Summer 2021]
+- Software Engineer intern at Enova Robotics [Sousse, Tunisia. Summer 2020]
 
-You can contact me at: contact@aymenkrifa.me or aymenkrifa@gmail.com
+🔭 Current project: 
+- User segmentation and behavior predictor (Python + Pandas/Numpy/Matplotlib + Scitkit-learn).
 
-Links: <a href="https://www.aymenkrifa.me/">Resume Website</a> / <a href="https://www.linkedin.com/in/aymenkrifa">LinkedIn</a> / <a href="https://www.twitter.com/krifaymen">Twitter</a> / <a href="https://www.github.com/aymenkrifa">GitHub</a>
+🌱 Interests:
+- Data Science.
+- Science
+
+😄 Pronouns:
+- My full name is Mohamed Aymen KRIFA, but everyone call me Aymen
+
+💬 Reach me by email or LinkedIn! aymenkrifa@gmail.com | linkedin.com/in/aymenkrifa
+
+📫 Visit my website: www.aymenkrifa.me
