@@ -3,7 +3,7 @@
 My name is Aymen and I'm a Computer Science/Software Engineering student from Tunisia. Here's some info about me!
 
 ⚡ Work experience:
-- Data Scientist intern at <a href="https://www.quicktext.im/">Quicktext</a> (technology by Satoripop) [Sousse, Tunisia / February 2022 - Present]
+- Data Scientist intern at <a href="https://www.quicktext.im/">Quicktext</a> (technology by <a href="https://www.satoripop.com/">Satoripop</a>) [Sousse, Tunisia / February 2022 - Present]
 - Software Engineering intern at <a href="https://www.whitecapetech.com/">Whitecape Technologies</a> [Sousse, Tunisia / Summer 2021]
 - Software Engineering intern at <a href="https://www.enovarobotics.eu/">Enova Robotics</a> [Sousse, Tunisia / Summer 2020]
 
@@ -16,4 +16,4 @@ My name is Aymen and I'm a Computer Science/Software Engineering student from Tu
 
 💬 Reach me by e-mail or LinkedIn! aymenkrifa@gmail.com | www.linkedin.com/in/aymenkrifa
 
-📫 Visit my website: www.aymenkrifa.me
+📫 Visit my website: <a href="https://www.aymenkrifa.me/">www.aymenkrifa.me</a>
