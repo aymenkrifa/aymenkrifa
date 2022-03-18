@@ -18,4 +18,4 @@ My name is Aymen and I'm a Computer Science/Software Engineering student from Tu
 
 📫 Visit my website: www.aymenkrifa.me
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+[Quicktext](http://stackoverflow.com){:target="_blank"}
