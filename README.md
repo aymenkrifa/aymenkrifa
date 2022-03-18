@@ -16,4 +16,4 @@ My name is Aymen and I'm a Computer Science/Software Engineering student from Tu
 
 💬 Reach me by e-mail or LinkedIn! aymenkrifa@gmail.com | www.linkedin.com/in/aymenkrifa
 
-📫 Visit my website: <a href="https://www.aymenkrifa.me/">www.aymenkrifa.me</a>
+📫 Visit my website: www.aymenkrifa.me
