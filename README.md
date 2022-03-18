@@ -8,7 +8,7 @@ My name is Aymen and I'm a Computer Science/Software Engineering student from Tu
 - Software Engineering intern at <a href="https://www.enovarobotics.eu/">Enova Robotics</a> [Sousse, Tunisia / Summer 2020]
 
 🔭 Current project: 
-- User segmentation and behavior predictor (Python + Pandas/Numpy/Matplotlib + Scitkit-learn).
+- User segmentation and behavior predictor (Python + Pandas/Numpy/Matplotlib + Scikit-learn).
 
 🌱 Interests:
 - Data Science: making sense of data
