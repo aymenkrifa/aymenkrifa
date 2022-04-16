@@ -14,6 +14,6 @@ My name is Aymen and I'm a Computer Science/Software Engineering student from Tu
 - Data Science: making sense of data
 - History & Science
 
-💬 Reach me by e-mail or LinkedIn! aymenkrifa@gmail.com | www.linkedin.com/in/aymenkrifa
+💬 Reach me by e-mail or LinkedIn! aymenkrifa@gmail.com | linkedin.com/in/aymenkrifa
 
-📫 Visit my website: www.aymenkrifa.me
+📫 Visit my website: aymenkrifa.me
