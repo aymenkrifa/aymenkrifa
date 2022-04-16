@@ -9,8 +9,7 @@ My name is Aymen and I'm a Computer Science/Software Engineering student from Tu
 
 🔭 Current project: 
 - User segmentation and behavior predictor (Data Science/Data analysis/Machine Learning using Python + Pandas/Numpy/Matplotlib/Scikit-learn).
-
-***Always open to new opportunities and Open Source projects to contribute to***
+*I'm always open to new opportunities and Open Source projects to contribute to*
 
 🌱 Interests:
 - Data Science: making sense of data
