@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Aymen and here is some info about me!
+My name is Mohamed Aymen (call me Aymen :wink:). Here is some info about me!
 
 ⚡ Work experience:
 - Upcoming Machine Learning engineer at <a href="https://www.quicktext.im/">Quicktext</a> (technology by <a href="https://www.satoripop.com/">Satoripop</a>) [Sousse, Tunisia / August 2022 - ]
