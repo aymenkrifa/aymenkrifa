@@ -11,7 +11,7 @@ My name is Mohamed Aymen (call me Aymen :wink:). Here is some info about me!
 
 🔭 Recently finished project:
 
-- Predict the users' reservation trip category to adapt the partnering hotels' websites to each individual customer. (Data Science/Data Analysis/Machine Learning using Python + Pandas/Numpy/Matplotlib/Scikit-learn + Git/Docker/Jupyter Notebook).
+- <a href="https://github.com/aymenkrifa/autoactivator">Autoactivator</a>: A system package that automatically activates Python virtual environments based on project directories.
 
 *(I'm always open to new opportunities and Open Source projects to contribute to)*
 
