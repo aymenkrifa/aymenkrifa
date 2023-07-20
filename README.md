@@ -17,7 +17,7 @@ My name is Mohamed Aymen (call me Aymen :wink:). Here is some info about me!
 
 :mortar_board: Education:
 
-- I graduated in July 2022 with a Computer Science/Software Engineering degree from Ecole Polytechnique Sousse (Diplôme nationale de Licence en Informatique).
+- I am currently pursuing an Engineer's degree in Computer Science from Ecole Polytechnique Sousse. Additionally, I completed a Bachelor's degree in Software Engineering and Information Systems at the same institution from September 2019 to July 2022, achieving a Cumulative GPA of 3.7/4.0 and receiving the Top of the Class Student Award.
 
 :dart: Career goal:
 
