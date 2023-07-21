@@ -29,6 +29,6 @@ My name is Mohamed Aymen (call me Aymen :wink:). Here is some info about me!
 - History & Science
 
 
-💬 Reach me by e-mail or LinkedIn! <aymenkrifa@gmail.com> | <www.linkedin.com/in/aymenkrifa>
+💬 Reach me by e-mail or LinkedIn! <aymenkrifa@gmail.com> | linkedin.com/in/aymenkrifa
 
-📫 Visit my website: <www.aymenkrifa.me> (in case the link doesn't work, check out the [GitHub page](https://aymenkrifa.github.io/))
+📫 Visit my website: www.aymenkrifa.me (in case the link doesn't work, check out the [GitHub page](https://aymenkrifa.github.io/))
