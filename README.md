@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Mohamed Aymen (call me Aymen :wink:). Here is some info about me!
+My name is Aymen. Here is some info about me!
 
 ⚡ Work experience:
 
-- Junior Data Scientist at <a href="https://www.quicktext.im/">Quicktext</a> (technology by <a href="https://www.satoripop.com/">Satoripop</a>) [Sousse, Tunisia / July 2022 - Present]
+- Junior Data Scientist at <a href="https://www.quicktext.im/">Quicktext</a> [Sousse, Tunisia / July 2022 - Present]
 - Research intern at <a href="https://www.quicktext.im/">Quicktext</a> [Sousse, Tunisia / February 2022 - July 2022]
 - Software Engineering intern at <a href="https://www.whitecapetech.com/">Whitecape Technologies</a> [Sousse, Tunisia / Summer 2021]
 - Software/Computer Vision Engineering intern at <a href="https://www.enovarobotics.eu/">Enova Robotics</a> [Sousse, Tunisia / Summer 2020]
@@ -25,8 +25,7 @@ My name is Mohamed Aymen (call me Aymen :wink:). Here is some info about me!
 
 🌱 Interests:
 
-- Data Science: making sense of data
-- History & Science
+- History
 
 
 💬 Reach me by e-mail or LinkedIn! <aymenkrifa@gmail.com> | linkedin.com/in/aymenkrifa
