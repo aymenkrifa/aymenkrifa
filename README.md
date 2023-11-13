@@ -4,7 +4,7 @@ My name is Aymen. Here is some info about me!
 
 ⚡ Work experience:
 
-- Junior Data Scientist at <a href="https://www.quicktext.im/">Quicktext</a> [Sousse, Tunisia / July 2022 - Present]
+- Junior Machine Learning Engineer at <a href="https://www.quicktext.im/">Quicktext</a> [Sousse, Tunisia / July 2022 - Present]
 - Research intern at <a href="https://www.quicktext.im/">Quicktext</a> [Sousse, Tunisia / February 2022 - July 2022]
 - Software Engineering intern at <a href="https://www.whitecapetech.com/">Whitecape Technologies</a> [Sousse, Tunisia / Summer 2021]
 - Software/Computer Vision Engineering intern at <a href="https://www.enovarobotics.eu/">Enova Robotics</a> [Sousse, Tunisia / Summer 2020]
