@@ -1,6 +1,6 @@
 # Hi, I'm Aymen 👋
 
-I’m a Junior Machine Learning engineer at Quicktext, where we're pretty much at [the top of our game when it comes to AI in the hospitality sector](https://www.hospitalitynet.org/news/4108013.html). We're the brains behind Velma, the innovative virtual assistant.
+I’m a Machine Learning engineer at Quicktext, where we're pretty much at [the top of our game when it comes to AI in the hospitality sector](https://www.hospitalitynet.org/news/4108013.html). We're the brains behind Velma, the innovative virtual assistant.
 
 I'm all about coding away with a cup of coffee until the early hours of the morning rather than waking up with sufficient sleep. I prefer to focus on creating the best products possible instead of just launching something. I believe in well-thought-out planning, logical outcomes, and pure hard work instead of "chasing my dreams". In a nutshell, I'm all about getting things done.
 
@@ -8,7 +8,7 @@ I grew up on the internet and started coding at 15. After completing my degree i
 
 ⚡ Work experience:
 
-- Jr. Machine Learning Engineer at [Quicktext](https://www.quicktext.im/) [Sousse, Tunisia / July 2022 - Present]
+- Machine Learning Engineer at [Quicktext](https://www.quicktext.im/) [Sousse, Tunisia / July 2022 - Present]
 
 📝 Internships:
 
