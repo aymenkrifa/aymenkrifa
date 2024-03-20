@@ -25,3 +25,9 @@ I grew up on the internet and started coding at 15. After completing my degree i
 - I am currently pursuing an Engineer's degree in Computer Science from Ecole Polytechnique Sousse. Additionally, I completed a Bachelor's degree in Software Engineering and Information Systems at the same institution from September 2019 to July 2022, achieving a Cumulative GPA of 3.7/4.0 and receiving the Top of the Class Student Award.
 
 📫 You can visit my [website](https://aymenkrifa.github.io/), reach me by [e-mail](mailto:aymenkrifa@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/aymenkrifa).
+
+<div align="center">
+
+[![Aymen's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenkrifa&hide=contribs,issues&&show=prs_merged,prs_merged_percentage&rank_icon=github)](https://github.com/aymenkrifa/aymenkrifa)
+
+</div>
