@@ -26,6 +26,12 @@ I grew up on the internet and started coding at 15. After completing my degree i
 
 📫 You can visit my [website](https://aymenkrifa.github.io/), reach me by [e-mail](mailto:aymenkrifa@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/aymenkrifa).
 
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,cpp,django,docker,bash,elasticsearch,flask,git,github,bitbucket,linux,vim,postman,postgres,pytorch,tensorflow,sqlite,sklearn,ubuntu&theme=light&perline=10" />
+  </a>
+</p>
+
 <div align="center">
 
 [![Aymen's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenkrifa&hide=contribs,issues&&show=prs_merged,prs_merged_percentage&rank_icon=github)](https://github.com/aymenkrifa/aymenkrifa)
