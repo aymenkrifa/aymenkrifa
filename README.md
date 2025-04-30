@@ -1,34 +1,18 @@
 # Hi, I'm Aymen 👋
 
-I’m a Machine Learning engineer at Quicktext, where we're pretty much at [the top of our game when it comes to AI in the hospitality sector](https://www.hospitalitynet.org/news/4108013.html). We're the brains behind Velma, the innovative virtual assistant.
+Bridging research and real-world impact through AI — from fine-tuning LLMs to deploying scalable, production-ready pipelines. I turn data into tools that work, learn, and deliver real value.
 
-I'm all about coding away with a cup of coffee until the early hours of the morning rather than waking up with sufficient sleep. I prefer to focus on creating the best products possible instead of just launching something. I believe in well-thought-out planning, logical outcomes, and pure hard work instead of "chasing my dreams". In a nutshell, I'm all about getting things done.
+Currently working as a Machine Learning Engineer, building intelligent systems that help the hospitality industry enhance customer experience and streamline operations.
 
-I grew up on the internet and started coding at 15. After completing my degree in Software engineering (Licence) in 2022, I joined the Quicktext team specializing in developing end-to-end Machine Learning systems. Currently residing in Sousse, I also enjoy creating helpful side projects in my spare time.
-
-⚡ Work experience:
-
-- Machine Learning Engineer at [Quicktext](https://www.quicktext.im/) [Sousse, Tunisia / July 2022 - Present]
-
-📝 Internships:
-
-- Data Science intern at [Quicktext](https://www.quicktext.im/) [Sousse, Tunisia / February 2022 - July 2022]
-- Software Engineering intern at [Whitecape Technologies](https://www.whitecapetech.com/) [Sousse, Tunisia / Summer 2021]
-- Software/Computer Vision Engineering intern at [Enova Robotics](https://www.enovarobotics.eu/) [Sousse, Tunisia / Summer 2020]
-
-🔭 Recently finished project (I'm always open to new opportunities and Open Source projects to contribute to):
-
-- [Autoactivator](https://github.com/aymenkrifa/autoactivator): A system package that automatically activates Python virtual environments based on project directories.
-
-🎓 Education:
-
-- I am currently pursuing an Engineer's degree in Computer Science from Ecole Polytechnique Sousse. Additionally, I completed a Bachelor's degree in Software Engineering and Information Systems at the same institution from September 2019 to July 2022, achieving a Cumulative GPA of 3.7/4.0 and receiving the Top of the Class Student Award.
-
-📫 You can visit my [website](https://aymenkrifa.github.io/), reach me by [e-mail](mailto:aymenkrifa@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/aymenkrifa).
-
+📫 Feel free to visit [my website](https://aymenkrifa.github.io/), [send me an email](mailto:aymenkrifa@gmail.com) or [connect on LinkedIn](https://linkedin.com/in/aymenkrifa).
 
 <div align="center">
 
-[![Aymen's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenkrifa&hide=contribs,issues&&show=prs_merged,prs_merged_percentage&rank_icon=github)](https://github.com/aymenkrifa/aymenkrifa)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aymenkrifa&hide=contribs,issues&&show=prs_merged,prs_merged_percentage&rank_icon=github&show_icons=true&theme=default" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymenkrifa&hide_progress=true" />
+</a>
 
 </div>
