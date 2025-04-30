@@ -11,8 +11,5 @@ Currently working as a Machine Learning Engineer, building intelligent systems t
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aymenkrifa&hide=contribs,issues&&show=prs_merged,prs_merged_percentage&rank_icon=github&show_icons=true&theme=default" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymenkrifa&hide_progress=true" />
-</a>
 
 </div>
