@@ -4,7 +4,7 @@ Bridging research and real-world impact through AI — from fine-tuning LLMs to 
 
 Currently working as a Machine Learning Engineer, building intelligent systems that help the hospitality industry enhance customer experience and streamline operations.
 
-📫 Feel free to visit [my website](https://aymenkrifa.github.io/), [send me an email](mailto:aymenkrifa@gmail.com) or [connect on LinkedIn](https://linkedin.com/in/aymenkrifa).
+📫 Feel free to visit [my website](https://aymenkrifa.com/), [send me an email](mailto:aymenkrifa@gmail.com) or [connect on LinkedIn](https://linkedin.com/in/aymenkrifa).
 
 <div align="center">
 
