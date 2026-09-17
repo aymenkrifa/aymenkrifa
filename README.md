@@ -1,7 +1,7 @@
 ### Hello, I'm Aymen 👋
 
-Bridging research and real-world impact through AI — from fine-tuning LLMs to deploying scalable, production-ready pipelines. I turn data into tools that work, learn, and deliver real value.
+Machine Learning Engineer by day. Off the clock I build and maintain open-source developer tools, mostly small, sharp things for the terminal, Linux and Kubernetes.
 
-Currently working as a Machine Learning Engineer, building intelligent systems that help the hospitality industry enhance customer experience and streamline operations.
+For more about my work and background, check [my website](https://aymenkrifa.com/).
 
-📫 Feel free to visit [my website](https://aymenkrifa.com/), [send me an email](mailto:aymenkrifa@gmail.com) or [connect on LinkedIn](https://linkedin.com/in/aymenkrifa).
+📫 Feel free to [send me an email](mailto:aymenkrifa@gmail.com) or [connect on LinkedIn](https://linkedin.com/in/aymenkrifa).
